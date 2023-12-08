@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 ### Hi there 👋, I am RUMA AKTER
 #### Front-end Developer
 
-![Front-end Developer]([https://i.ibb.co/xzmkZ8S/I-m-Ruma-Akter.png](https://www.canva.com/design/DAF2am0eh1s/dP55AncNIG6N4SdJh9KF0g/view?utm_content=DAF2am0eh1s&utm_campaign=designshare&utm_medium=link&utm_source=editor))
+![Front-end Developer]([https://i.ibb.co/xzmkZ8S/I-m-Ruma-Akter.png])
 
 ![Front-end Developer](https://i.ibb.co/xzmkZ8S/I-m-Ruma-Akter.png)
 
