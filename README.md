@@ -5,14 +5,15 @@
 ## About Me:
 Dedicated MERN Stack Developer with a specialization in React, MongoDB, and Express. Seeking a dynamic role to apply my in-depth expertise in crafting scalable and efficient web applications, and contributing to the success of innovative projects through collaborative problem-solving and creative solutions.
 
-- 🔭 I’m currently working on Github Project
+
 - 🌱 I’m currently learning Node js
 - 🔭 I’m currently working on A new Project
 
 
 ![MERN Stack Developer](https://i.ibb.co/G7nHT4G/Hi.png)
 
-## Skills:
+
+<h2 align="center">⚡Skills ⚡</h2>
 - REACT
 - JS 
 - MongoDb
@@ -39,7 +40,7 @@ Dedicated MERN Stack Developer with a specialization in React, MongoDB, and Expr
 </div>
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Status ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Ruma543&show_icons=true" alt="streak stats"/>
