@@ -8,7 +8,7 @@ Dedicated MERN Stack Developer with a specialization in React, MongoDB, and Expr
 
 
 - 🌱 I’m currently learning Node js
-- 🔭 I’m currently working on A new Project
+- 🔭 I’m currently working on <a href="https://linkedin.com/in/ruma-akter-b51057179](https://github.com/Ruma543/wellbeing-yoga" target="_blank">
 
 
 ![MERN Stack Developer](https://i.ibb.co/JsGDS3f/Hi-I-am-Ruma-Akter.png)
