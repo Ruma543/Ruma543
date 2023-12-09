@@ -4,12 +4,17 @@
 **Ruma543/Ruma543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+### Hi👋, I am RUMA AKTER
+#### MERN Stack Developer
+
+
+## About Me:
+Dedicated MERN Stack Developer with a specialization in React, MongoDB, and Express. Seeking a dynamic role to apply my in-depth expertise in crafting scalable and efficient web applications, and contributing to the success of innovative projects through collaborative problem-solving and creative solutions.
 
 - 🔭 I’m currently working on Github Project
 - 🌱 I’m currently learning Node js
+- 🔭 I’m currently working on A new Project
 
-### Hi👋, I am RUMA AKTER
-#### MERN Stack Developer
 
 ![MERN Stack Developer](https://i.ibb.co/G7nHT4G/Hi.png)
 
@@ -24,8 +29,8 @@ Here are some ideas to get you started:
 - HTML
 - CSS
 
-- 🔭 I’m currently working on A new Project
-- 👯 I’m looking to collaborate on Github
+
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ruma543)  
