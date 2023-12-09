@@ -36,7 +36,7 @@ Dedicated MERN Stack Developer with a specialization in React, MongoDB, and Expr
 
 
 <div align="center"> 
-  <a href="ruma.afrin543@gmail.com">
+  <a href="mailto:ruma.afrin543@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/ruma-akter-b51057179" target="_blank">
@@ -49,10 +49,10 @@ Dedicated MERN Stack Developer with a specialization in React, MongoDB, and Expr
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://linkedin.com/in/ruma-akter-b51057179)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruma543)](https://github.com/anuraghazra/github-readme-stats)
-
+ <h2> My Contributions </h2>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruma543&show_icons=true)  
 
  
-
+<h2 align="center">⚡ Stats ⚡</h2>
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Ruma543)  
 
