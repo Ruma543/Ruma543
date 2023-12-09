@@ -11,7 +11,8 @@ Dedicated MERN Stack Developer with a specialization in React, MongoDB, and Expr
 - 🔭 I’m currently working on A new Project
 
 
-![MERN Stack Developer](https://i.ibb.co/G7nHT4G/Hi.png)
+![MERN Stack Developer](https://i.ibb.co/JsGDS3f/Hi-I-am-Ruma-Akter.png)
+
 
 
 <h2 align="center">⚡Skills ⚡</h2>
