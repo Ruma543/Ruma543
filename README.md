@@ -21,7 +21,7 @@ scalable and efficient web applications, and contributing to the success of
 innovative projects through collaborative problem-solving and creative
 solutions.
 
-Skills: REACT / JS /MongoDb
+Skills: REACT / JS /MongoDb/HTML / CSS
 
 - 🔭 I’m currently working on Github 
 
