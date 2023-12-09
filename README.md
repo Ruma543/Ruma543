@@ -17,10 +17,11 @@ Dedicated MERN Stack Developer with a specialization in React, MongoDB, and Expr
 
 <h2 align="center">⚡Skills ⚡</h2>
 <li> REACT</li>
-- JS 
-- MongoDb
-- HTML
-- CSS
+<li>  JS </li>
+<li> MongoDb</li>
+<li> HTML</li>
+<li> CSS</li>
+
 <h2 align="center">⚡Languages Frameworks Tools ⚡</h2>
 <br/>
 <div align="center">
