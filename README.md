@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-##Skills:
+## Skills:
 - REACT
 - JS 
 - MongoDb
