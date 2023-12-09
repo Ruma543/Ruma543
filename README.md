@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 
 
 
-Dedicated MERN Stack Developer with a specialization in React, MongoDB, and
-Express. Seeking a dynamic role to apply my in-depth expertise in crafting
-scalable and efficient web applications, and contributing to the success of
-innovative projects through collaborative problem-solving and creative
-solutions.
 
-Skills: REACT / JS /MongoDb/HTML / CSS
+
+##Skills:
+REACT
+JS 
+MongoDb
+HTML
+CSS
 
 - 🔭 I’m currently working on A new Project
 - 👯 I’m looking to collaborate on Github
