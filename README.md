@@ -3,8 +3,9 @@
 #### MERN Stack Developer
 
 
-## About Me:
-Dedicated MERN Stack Developer with a specialization in React, MongoDB, and Express. Seeking a dynamic role to apply my in-depth expertise in crafting scalable and efficient web applications, and contributing to the success of innovative projects through collaborative problem-solving and creative solutions.
+
+<h2 align="left">⚡About Me ⚡</h2>
+<p>Dedicated MERN Stack Developer with a specialization in React, MongoDB, and Express. Seeking a dynamic role to apply my in-depth expertise in crafting scalable and efficient web applications, and contributing to the success of innovative projects through collaborative problem-solving and creative solutions.</p>
 
 
 - 🌱 I’m currently learning Node js
@@ -31,7 +32,8 @@ Dedicated MERN Stack Developer with a specialization in React, MongoDB, and Expr
 
 
 
-
+<h2 align="left">⚡Socials ⚡</h2>
+<br/>
 <div align="center"> 
   <a href="mailto:ruma.afrin543@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
