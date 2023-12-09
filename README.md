@@ -45,20 +45,20 @@ Dedicated MERN Stack Developer with a specialization in React, MongoDB, and Expr
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Ruma543&show_icons=true" alt="streak stats"/>
   <img width=390 src="https://streak-stats.demolab.com/?user=Ruma543" alt="readme stats" />
   <br/>
-      <img width=325 align="center" src="https://github-readme-stats-Ruma543.vercel.app/api/top-langs/?username=Ruma543&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruma543" alt="top langs" />
 
     
-  <img width=325 align="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruma543" alt="top langs" />
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruma543)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ruma543)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://linkedin.com/in/ruma-akter-b51057179)  
- <h2> My Contributions </h2>
+
+<-- <h2> My Contributions </h2>
  <h2 align="center">⚡ Stats ⚡</h2>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruma543)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruma543&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Ruma543)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Ruma543) 
+  <img width=325 align="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruma543" alt="top langs" />
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruma543)](https://github.com/anuraghazra/github-readme-stats)-->
 
