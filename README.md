@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 ### Hi👋, I am RUMA AKTER
 #### MERN Stack Developer
 
-![Front-end Developer](https://i.ibb.co/G7nHT4G/Hi.png)
+![MERN Stack Developer](https://i.ibb.co/G7nHT4G/Hi.png)
 
-![Front-end Developer](https://i.ibb.co/xzmkZ8S/I-m-Ruma-Akter.png)
+
 
 Dedicated MERN Stack Developer with a specialization in React, MongoDB, and
 Express. Seeking a dynamic role to apply my in-depth expertise in crafting
