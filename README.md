@@ -52,13 +52,5 @@ Dedicated MERN Stack Developer with a specialization in React, MongoDB, and Expr
 </div>
 
 
-<-- <h2> My Contributions </h2>
- <h2 align="center">⚡ Stats ⚡</h2>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruma543)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruma543&show_icons=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Ruma543) 
-  <img width=325 align="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruma543" alt="top langs" />
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruma543)](https://github.com/anuraghazra/github-readme-stats)-->
 
