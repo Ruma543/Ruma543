@@ -8,10 +8,10 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Github Project
 - 🌱 I’m currently learning Node js
 
-### Hi there 👋, I am RUMA AKTER
+### Hi👋, I am RUMA AKTER
 #### MERN Stack Developer
 
-![Front-end Developer](https://i.ibb.co/xzmkZ8S/I-m-Ruma-Akter.png)
+![Front-end Developer](https://i.ibb.co/G7nHT4G/Hi.png)
 
 ![Front-end Developer](https://i.ibb.co/xzmkZ8S/I-m-Ruma-Akter.png)
 
