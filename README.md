@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 
 ##Skills:
-REACT
-JS 
-MongoDb
-HTML
-CSS
+- REACT
+- JS 
+- MongoDb
+- HTML
+- CSS
 
 - 🔭 I’m currently working on A new Project
 - 👯 I’m looking to collaborate on Github
