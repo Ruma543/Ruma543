@@ -15,14 +15,14 @@ Dedicated MERN Stack Developer with a specialization in React, MongoDB, and Expr
 
 
 
-<h2 align="center">⚡Skills ⚡</h2>
+<h2 align="left">⚡Skills ⚡</h2>
 <li> REACT</li>
 <li>  JS </li>
 <li> MongoDb</li>
 <li> HTML</li>
 <li> CSS</li>
 
-<h2 align="center">⚡Languages Frameworks Tools ⚡</h2>
+<h2 align="left">⚡Languages Frameworks Tools ⚡</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,mui,html,css,vscode,github,tailwind,git" />
@@ -43,7 +43,7 @@ Dedicated MERN Stack Developer with a specialization in React, MongoDB, and Expr
 </div>
 
 
-<h2 align="center">⚡ Status ⚡</h2>
+<h2 align="left">⚡ Status ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Ruma543&show_icons=true" alt="streak stats"/>
