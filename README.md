@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ruma543.Ruma543" />
+
 ### Hi👋, I am RUMA AKTER
 #### MERN Stack Developer
 
