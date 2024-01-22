@@ -8,7 +8,7 @@
 <p>Dedicated MERN Stack Developer with a specialization in React, MongoDB, and Express. Seeking a dynamic role to apply my in-depth expertise in crafting scalable and efficient web applications, and contributing to the success of innovative projects through collaborative problem-solving and creative solutions.</p>
 
 
-- 🌱 I’m currently learning Node js
+- 🌱 I’m currently learning Next.js
 - 🔭 I’m currently working on <a href="https://github.com/Ruma543/wellbeing-yoga" target="_blank"> wellbeing-yoga</a> Project.
 
 
