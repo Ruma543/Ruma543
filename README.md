@@ -9,7 +9,7 @@
 
 
 - 🌱 I’m currently learning Next.js
-- 🔭 I’m currently working on <a href="https://github.com/Ruma543/wellbeing-yoga" target="_blank"> wellbeing-yoga</a> Project.
+- 🔭 I’m currently working on <a href="https://github.com/istiakahmedsarker/property-hunter-react" target="_blank"> Team </a> Project.
 
 
 
