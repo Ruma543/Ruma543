@@ -5,7 +5,7 @@
 
 
 <h2 align="left">⚡About Me ⚡</h2>
-<p>Dedicated MERN Stack Developer with a specialization in React, MongoDB, and Express. Seeking a dynamic role to apply my in-depth expertise in crafting scalable and efficient web applications, and contributing to the success of innovative projects through collaborative problem-solving and creative solutions.</p>
+<p>Dedicated Frontend Developer with a specialization in React, MongoDB, and Express. Seeking a dynamic role to apply my in-depth expertise in crafting scalable and efficient web applications, and contributing to the success of innovative projects through collaborative problem-solving and creative solutions.</p>
 
 
 - 🌱 I’m currently learning Next.js
